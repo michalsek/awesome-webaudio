@@ -1,4 +1,4 @@
-﻿# Awesome WebAudio
+![image](https://github.com/user-attachments/assets/bb23239b-68a5-4144-a6a6-1e6a94a0b16a)﻿# Awesome WebAudio
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
@@ -34,6 +34,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Omnitone](https://github.com/GoogleChrome/omnitone) - Ambisonic spatial audio on the web.
 - [Mach1Spatial](https://github.com/Mach1Studios/m1-sdk) - Vector based panning spatial audio on the web.
 - [Elementary](https://www.elementary.audio/) – Declarative, functional framework for writing audio software on the web or for native apps
+- [React Native Audio API](https://docs.swmansion.com/react-native-audio-api/) - react-native framework implementing the Web Audio Specification for mobile devices
 
 ### Libraries
 
